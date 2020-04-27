@@ -155,7 +155,7 @@ body {
     left: 380px;
     width: 653px;
     height: 451px;
-    background-image: url("../new_site/img/fone.png");
+    background-image: url("/img/fone.png");
     background-repeat: no-repeat;
     z-index: -1;
     }
@@ -288,15 +288,15 @@ body {
     }
     
     .features-icon-schedule{
-    background:#f0f0f0 url("../new_site/img/icon\ adv\ 1.png") no-repeat 50% 0;
+    background:#f0f0f0 url("/img/icon\ adv\ 1.png") no-repeat 50% 0;
     }
     
     .features-icon-practice{
-    background:#f0f0f0 url("../new_site/img/icon\ adv\ 2.png") no-repeat 50% 0;
+    background:#f0f0f0 url("/img/icon\ adv\ 2.png") no-repeat 50% 0;
     }
     
     .features-icon-work{
-    background:#f0f0f0 url("../new_site/img/icon\ adv\ 3.png") no-repeat 50% 0;
+    background:#f0f0f0 url("/img/icon\ adv\ 3.png") no-repeat 50% 0;
     }
     
     .features-title{
